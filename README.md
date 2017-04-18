@@ -1,6 +1,6 @@
 # Project: Design Teardown (with Smashing Magazine)
 
-Project to practice thinking in terms of visual hierarchy, typography and design principles for The Odin Project's [Project: Design Teardown (with Smashing Magazine).](http://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
+Project to practice thinking in terms of visual hierarchy, typography and design principles from The Odin Project's [Project: Design Teardown (with Smashing Magazine).](http://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
 
 This is also a practise to get better at positioning `<div>` elements without worrying too much about what's inside them.
 
